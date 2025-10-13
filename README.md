@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bijoy Das Gupta</h1>
+<h1 align="center">Hi there!👋, I'm Bijoy Das Gupta</h1>
 <h3 align="center">I’m an enthusiastic CSE undergraduate who loves exploring the world of **data science**. I aim to enhance my programming and analytical skills to solve real-world problems through the power of data and efficient algorithms. Currently, I’m focused on strengthening my understanding of **Data Structures and Algorithms (DSA)** using **C++**.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoydasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="bijoydasgupta" /> </p>
