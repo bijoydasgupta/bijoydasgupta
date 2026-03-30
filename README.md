@@ -5,7 +5,7 @@ Besides, I love to explore the world of AI/ML. Specially, I am learning other te
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoydasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="bijoydasgupta" /> </p>
 
-- 🌱 I’m currently learning **Data Structure & Algorithms, Graphics Design using Canva**
+- 🌱 I’m currently learning **Data Structure & Algorithms, UI/UX Design, Artificial Intelligence**
 
 - 📫 How to reach me **bijoydasgupta595@gmail.com**
 
