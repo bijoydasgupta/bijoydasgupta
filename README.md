@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bijoy Das Gupta</h1>
-<p> Hello there, I am Bijoy Das Gupta. I am an undergraduate student studying in CSE Department of United International University (UIU). Additionally, I am a hardworking, committed and disciplined student. <br><br>
+<p>I am an undergraduate student studying in CSE Department of United International University (UIU). Additionally, I am a hardworking, committed and disciplined student. <br><br>
 Moreover, I aim to enhance my programming and analytical skills to solve real-world problems through the power of data and efficient algorithms. Currently, I’m focused on strengthening my understanding of Database Management System (DBMS) using SQL Language, Fronted Web Development. <br><br>
 Besides, I love to explore the world of AI/ML. Specially, I am learning other technical skills like graphics design, video editing, Microsoft tools (word, powerpoint, excel).Therefore, I am looking for a remote Internship or In-site Internship in a software company for sharpening my knowledge and technical skills widely. I am eager to use networking skills and drive for self-motivation to further company objectives and team projects.</p>
 
